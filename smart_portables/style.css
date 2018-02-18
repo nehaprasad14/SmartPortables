@@ -1,0 +1,373 @@
+@import url(http://fonts.googleapis.com/css?family=Pontano+Sans);
+/***********************  header css ***********************/
+body {
+	background: #E6E7E9;
+	margin:0;
+	padding:0;
+	font-family: 'Pontano Sans', Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	color: #888;
+}
+
+#container {
+	width: 90%;
+	margin: 20px auto;
+	padding: 10px;
+	box-shadow: 0 5px 5px 5px #CCCCCC;
+	background-color: #fff;
+
+}
+
+header {
+	padding: 35px 0;
+	background: #fff;
+	margin: 0 auto;
+	text-align:center;
+}
+
+header h1 a, header h1 a:hover {
+ color: #000000;
+    font-size: 60px;
+    font-weight: normal;
+    letter-spacing: -2px;
+    line-height: 45px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+header h1 a span {
+	color: #800000;
+}
+
+header h2 {
+	color: #808080;
+	font-size: 16px;
+	position: relative;
+	top: -5px;
+	letter-spacing: 0;
+}
+
+.inpbtn {
+	-webkit-border-radius: 9;
+	-moz-border-radius: 9;
+	border-radius: 9px;
+	font-family: Arial;
+	color: #ffffff;
+	font-size: 15px;
+	background: #800000;
+	padding: 5px 10px 5px 10px;
+	text-decoration: none;
+	display: block;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+	cursor:pointer;
+}
+
+.inpbtn:hover {
+	background: #470e0e;
+	text-decoration: none;
+}
+
+nav {
+	height: 70px;
+	background-color: #404040;
+}
+
+nav ul {
+	height: 70px;
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+nav ul li {
+	float: left;
+	display: block;
+	padding: 0;
+	font-weight: bold;
+}
+
+nav ul li.end {
+	float: right;
+	display: block;
+	padding: 0;
+	font-weight: bold;
+	border-left: 1px solid #fff;
+}
+
+nav ul li a {
+    color: #eee;
+    display: block;
+    font-family: 'Pontano Sans',Arial,sans-serif;
+    font-size: 13px;
+    letter-spacing: 0;
+    margin: 0;
+    padding: 28px 20px 25px;
+    text-decoration: none;
+    text-transform: uppercase;
+	  border-right: 1px solid #fff;
+}
+nav ul li.selected a,
+nav ul li.selected a:hover {
+	background-color: #111;
+	color: #fff;
+	font-weight:bold;
+}
+nav ul li a:hover {
+	color: #fff;
+	background-color: #111;
+	text-decoration: none;
+}
+/***********************  content css ***********************/
+#body {
+	background: none;
+	margin: 0 auto;
+ 	padding: 0;
+	clear: both;
+}
+
+#content {
+    float: right;
+    width: 80%;
+}
+
+article {
+    padding: 10px 10px 20px 10px;
+    padding: inherit;
+ }
+
+article h2 {
+    color: #800000;
+    padding-bottom: 0;
+    text-align: center;
+    font-size: 24px;
+    
+}
+
+
+article .article-info {
+    color: #999999;
+    font-size: 12px;
+    font-style: italic;
+    padding: 0 0 10px 0;
+}
+
+article .article-info a {
+	color: #666;
+}
+
+article form table {
+    width: 100%;  
+    margin: 0px auto;
+}
+
+/***********************  Product list css ***********************/
+
+
+#bestseller {
+	width: 90%
+}
+
+#bestseller td{
+	padding-bottom: 20px;
+}
+
+table#bestseller {
+    display: table;
+    border-collapse: separate;
+    border-spacing: 2px;
+    border-color: grey;
+    color: black;
+}
+
+#bestseller table tr td{
+    display: table;
+    border-collapse: separate;
+    border-spacing: 2px;
+    border-color: grey;
+    color: black;
+}
+
+#shop_item {
+	border-radius: 5px;
+	border: 1px solid #800000;
+	padding: 4px;
+	width: 250px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#shop_item ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	border: none;
+}
+
+#shop_item ul li {
+	margin-bottom: 5px;
+}
+
+#shop_item #item img {
+	display: block;
+	width: 180px;
+	height: 180px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#shop_item strong {
+	display: block;
+	text-align: center;
+	margin-bottom: 5px;
+}
+
+#shop_item #item {
+	border: 0px solid #800000;
+}
+
+#shop_item h3 {
+	text-align: center;
+    color: #111;
+	font-size: 18px;
+	margin-bottom: 0;
+}
+
+.btn1 {
+	-webkit-border-radius: 9;
+	-moz-border-radius: 9;
+	border-radius: 9px;
+	font-family: Arial;
+	color: #ffffff;
+	font-size: 15px;
+	background: #800000;
+	padding: 5px 10px 5px 10px;
+	text-decoration: none;
+	display: block;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.btn1:hover {
+	background: #470e0e;
+	text-decoration: none;
+}
+
+/***********************  Left navigation css ***********************/
+.sidebar {
+    float: left;
+    width: 20%;
+    margin-top: 5px;
+}
+
+.sidebar h4 {
+	padding-bottom: 0;
+	font-size: 13px;
+	color: #fff;
+	text-transform: uppercase;
+	font-weight: bold;
+	padding: 7px 7px;
+	border-bottom: 1px solid #A31923;
+    background-color: #800000;
+}
+
+.sidebar ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+.sidebar ul li {
+	background-color: #E6E7E9;
+	margin-bottom: 20px;
+	line-height: 1.9em;
+}
+
+.sidebar li ul {
+    list-style: none;
+    margin: 0px;
+}
+
+.sidebar li ul li {
+	display: block;
+	border-top: none;
+	padding: 7px;
+	margin: 0;
+	line-height: 1.5em;
+	font-size: 15px;
+}
+
+.sidebar li ul li.text {
+	display: block;
+	border-bottom: none;
+}
+
+.sidebar li ul li a {
+	display: block;
+	font-weight: normal;
+	text-decoration: none;
+	font-weight: bold;
+	color: black;
+}
+
+.sidebar li ul li a:hover {
+	color: #fff;
+	background-color: #111;
+	text-decoration: none;
+}
+
+.clear {
+	clear: both;
+}
+
+/***********************  Left navigation css ***********************/
+
+footer {
+	margin:20px auto 0;
+	width: auto;
+}
+
+footer p {
+	text-align: left;
+	color: #ccc;
+	font-size: 12px;
+    margin: 0;
+	padding: 0;
+}
+
+footer p a {
+	color: #ccc;
+	font-weight: bold;
+}
+
+.footer-content {
+	padding: 20px 25px 30px;
+	background: #ddd;
+	border-top: 10px solid #404040;
+}
+
+footer .footer-content h4 {
+    color: #666666;
+    font-size: 20px;
+    font-weight: normal;
+    padding-bottom: 0;
+}
+
+footer .footer-bottom {
+	padding: 10px;
+	text-align: center;
+	background-color: #800000;
+}
+
+footer .footer-bottom p {
+	text-align: center;
+}
+
+footer .footer-bottom p, footer .footer-bottom p a {
+	color: #eee;
+}
+
+/***********************  carousel css ***********************/
+

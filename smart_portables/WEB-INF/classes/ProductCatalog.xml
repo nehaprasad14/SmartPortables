@@ -1,0 +1,939 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductCatalog>
+    <Products>
+        <!-- Smart Watches -->
+        <Product id="1">
+            <name>Samsung Gear S2 Smartwatch</name>
+            <price>119</price>
+            <image>images/products/SmartWatches/smtwatch1.jpg</image>
+            <category>smartWatches</category>
+            <brand>Samsung</brand>
+            <deals>Trending</deals>
+            <discount>10 </discount>
+            <quantity>50</quantity>
+            <prodOnSale>Yes</prodOnSale>
+            <manuRebate>Yes</manuRebate>
+            <accessories>
+                <accessory>501</accessory>
+                <accessory>502</accessory>
+                <accessory>503</accessory>
+                <accessory>504</accessory>
+                <accessory>505</accessory>
+                <accessory>506</accessory>
+                <accessory>507</accessory>
+            </accessories>
+        </Product>
+        <Product id="2">
+            <name>Samsung Gear S Smartwatch, Black 4GB</name>
+            <price>139</price>
+            <image>images/products/SmartWatches/smtwatch2.jpg</image>
+            <category>smartWatches</category>
+            <brand>Samsung</brand>
+            <deals>Trending</deals>
+            <discount>10 </discount>
+            <quantity>50</quantity>
+            <prodOnSale>Yes</prodOnSale>
+            <manuRebate>No</manuRebate>
+            <accessories>
+                <accessory>501</accessory>
+                <accessory>502</accessory>
+                <accessory>503</accessory>
+                <accessory>504</accessory>
+                <accessory>505</accessory>
+                <accessory>506</accessory>
+                <accessory>507</accessory>
+            </accessories>
+        </Product>
+        <Product id="3">
+            <name>Samsung Gear Fit Smart Watch, Black </name>
+            <price>40</price>
+            <image>images/products/SmartWatches/smtwatch3.jpg</image>
+            <category>smartWatches</category>
+            <brand>Samsung</brand>
+            <deals>Trending</deals>
+            <discount>10 </discount>
+            <quantity>50</quantity>
+            <prodOnSale>No</prodOnSale>
+            <manuRebate>Yes</manuRebate>
+            <accessories>
+                <accessory>501</accessory>
+                <accessory>502</accessory>
+                <accessory>503</accessory>
+                <accessory>504</accessory>
+                <accessory>505</accessory>
+                <accessory>506</accessory>
+                <accessory>507</accessory>
+            </accessories>
+        </Product>
+        <Product id="4">
+            <name>Smartwatch from Pebble</name>
+            <price>90</price>
+            <image>images/products/SmartWatches/smtwatch4.jpg</image>
+            <category>smartWatches</category>
+            <brand>Pebble</brand>
+            <deals>normal</deals>
+            <discount>10 </discount>
+            <quantity>50</quantity>
+            <prodOnSale>Yes</prodOnSale>
+            <manuRebate>Yes</manuRebate>
+            <accessories>
+                <accessory>501</accessory>
+                <accessory>502</accessory>
+                <accessory>503</accessory>
+                <accessory>504</accessory>
+                <accessory>505</accessory>
+                <accessory>506</accessory>
+                <accessory>507</accessory>
+            </accessories>
+        </Product>
+        <Product id="5">
+            <name>Pebble Smartwatch for - Charcoal/Lime</name>
+            <price>90</price>
+            <image>images/products/SmartWatches/smtwatch5.jpg</image>
+            <category>smartWatches</category>
+            <brand>Pebble</brand>
+            <deals>normal</deals>
+            <discount>10 </discount>
+            <quantity>50</quantity>
+            <prodOnSale>No</prodOnSale>
+            <manuRebate>No</manuRebate>
+            <accessories>
+                <accessory>501</accessory>
+                <accessory>502</accessory>
+                <accessory>503</accessory>
+                <accessory>504</accessory>
+                <accessory>505</accessory>
+                <accessory>506</accessory>
+                <accessory>507</accessory>
+            </accessories>
+        </Product>
+        <Product id="6">
+            <name>Pebble Smart Watch- Black</name>
+            <price>46</price>
+            <image>images/products/SmartWatches/smtwatch6.jpg</image>
+            <category>smartWatches</category>
+            <brand>Pebble</brand>
+            <deals>normal</deals>
+            <discount>10 </discount>
+            <quantity>40</quantity>
+            <prodOnSale>Yes</prodOnSale>
+            <manuRebate>No</manuRebate>
+            <accessories>
+                <accessory>501</accessory>
+                <accessory>502</accessory>
+                <accessory>503</accessory>
+                <accessory>504</accessory>
+                <accessory>505</accessory>
+                <accessory>506</accessory>
+                <accessory>507</accessory>
+            </accessories>
+        </Product>
+        <Product id="7">
+            <name>Fitbit Blaze Smart Fitness Watch</name>
+            <price>199</price>
+            <image>images/products/SmartWatches/smtwatch7.jpg</image>
+            <category>smartWatches</category>
+            <brand>Fitbit</brand>
+            <deals>normal</deals>
+            <discount>10 </discount>
+            <quantity>50</quantity>
+            <prodOnSale>Yes</prodOnSale>
+            <manuRebate>No</manuRebate>
+            <accessories>
+                <accessory>501</accessory>
+                <accessory>502</accessory>
+                <accessory>503</accessory>
+                <accessory>504</accessory>
+                <accessory>505</accessory>
+                <accessory>506</accessory>
+                <accessory>507</accessory>
+            </accessories>
+        </Product>
+        <Product id="8">
+            <name>Fitbit Ionic Smartwatch</name>
+            <price>299</price>
+            <image>images/products/SmartWatches/smtwatch8.jpg</image>
+            <category>smartWatches</category>
+            <brand>Fitbit</brand>
+            <deals>normal</deals>
+            <discount>10 </discount>
+            <quantity>50</quantity>
+            <prodOnSale>No</prodOnSale>
+            <manuRebate>No</manuRebate>
+            <accessories>
+                <accessory>501</accessory>
+                <accessory>502</accessory>
+                <accessory>503</accessory>
+                <accessory>504</accessory>
+                <accessory>505</accessory>
+                <accessory>506</accessory>
+                <accessory>507</accessory>
+            </accessories>
+        </Product>
+        <Product id="9">
+            <name>Fitbit Smart Fitness Watch </name>
+            <price>189</price>
+            <image>images/products/SmartWatches/smtwatch9.jpg</image>
+            <category>smartWatches</category>
+            <brand>Fitbit</brand>
+            <deals>normal</deals>
+            <discount>10 </discount>
+            <quantity>50</quantity>
+            <prodOnSale>Yes</prodOnSale>
+            <manuRebate>No</manuRebate>
+            <accessories>
+                <accessory>501</accessory>
+                <accessory>502</accessory>
+                <accessory>503</accessory>
+                <accessory>504</accessory>
+                <accessory>505</accessory>
+                <accessory>506</accessory>
+                <accessory>507</accessory>
+            </accessories>
+        </Product>
+        <Product id="10">
+            <name>Samsung Galaxy Watch </name>
+            <price>11789</price>
+            <image>images/products/SmartWatches/smtwatch10.jpg</image>
+            <category>smartWatches</category>
+            <brand>Samsung</brand>
+            <deals>normal</deals>
+            <discount>10 </discount>
+            <quantity>50</quantity>
+            <prodOnSale>No</prodOnSale>
+            <manuRebate>No</manuRebate>
+            <accessories>
+                <accessory>501</accessory>
+                <accessory>502</accessory>
+                <accessory>503</accessory>
+                <accessory>504</accessory>
+                <accessory>505</accessory>
+                <accessory>506</accessory>
+                <accessory>507</accessory>
+            </accessories>
+        </Product>
+        <!-- Speakers -->
+        <Product id="11">
+            <name>Bose Companion 2 Series III </name>
+            <price>99</price>
+            <image>images/products/Speakers/sp1.jpg</image>
+            <category>speakers</category>
+            <brand>Bose</brand>
+            <deals>Crazy</deals>
+            <discount>10 </discount>
+            <quantity>50</quantity>
+            <prodOnSale>No</prodOnSale>
+            <manuRebate>Yes</manuRebate>
+            <accessories>
+                <accessory>501</accessory>
+                <accessory>502</accessory>
+                <accessory>503</accessory>
+                <accessory>504</accessory>
+                <accessory>505</accessory>
+                <accessory>506</accessory>
+                <accessory>507</accessory>
+            </accessories>
+        </Product>
+        <Product id="12">
+            <name>Bose SoundLink Mini Bluetooth Speaker </name>
+            <price>199</price>
+            <image>images/products/Speakers/sp2.jpg</image>
+            <category>speakers</category>
+            <brand>Bose</brand>
+            <deals>normal</deals>
+            <discount>10 </discount>
+            <quantity>50</quantity>
+            <prodOnSale>Yes</prodOnSale>
+            <manuRebate>No</manuRebate>
+            <accessories>
+                <accessory>501</accessory>
+                <accessory>502</accessory>
+                <accessory>503</accessory>
+                <accessory>504</accessory>
+                <accessory>505</accessory>
+                <accessory>506</accessory>
+                <accessory>507</accessory>
+            </accessories>
+        </Product>
+        <Product id="13">
+            <name>Bose Acoustimass 5 Series V Stereo Speaker System </name>
+            <price>399</price>
+            <image>images/products/Speakers/sp3.jpg</image>
+            <category>speakers</category>
+            <brand>Bose</brand>
+            <deals>Crazy</deals>
+            <discount>10 </discount>
+            <quantity>50</quantity>
+            <prodOnSale>Yes</prodOnSale>
+            <manuRebate>Yes</manuRebate>
+            <accessories>
+                <accessory>501</accessory>
+                <accessory>502</accessory>
+                <accessory>503</accessory>
+                <accessory>504</accessory>
+                <accessory>505</accessory>
+                <accessory>506</accessory>
+                <accessory>507</accessory>
+            </accessories>
+        </Product>
+        <Product id="14">
+            <name>Z200 with Stereo Sound for Multiple Devices </name>
+            <price>29</price>
+            <image>images/products/Speakers/sp4.jpg</image>
+            <category>speakers</category>
+            <brand>Logitech</brand>
+            <deals>Crazy</deals>
+            <discount>10 </discount>
+            <quantity>50</quantity>
+            <prodOnSale>No</prodOnSale>
+            <manuRebate>No</manuRebate>
+            <accessories>
+                <accessory>501</accessory>
+                <accessory>502</accessory>
+                <accessory>503</accessory>
+                <accessory>504</accessory>
+                <accessory>505</accessory>
+                <accessory>506</accessory>
+                <accessory>507</accessory>
+            </accessories>
+        </Product>
+        <Product id="15">
+            <name>Logitech S150 USB Speakers</name>
+            <price>18</price>
+            <image>images/products/Speakers/sp5.jpg</image>
+            <category>speakers</category>
+            <brand>Logitech</brand>
+            <deals>normal</deals>
+            <discount>10 </discount>
+            <quantity>50</quantity>
+            <prodOnSale>Yes</prodOnSale>
+            <manuRebate>No</manuRebate>
+            <accessories>
+                <accessory>501</accessory>
+                <accessory>502</accessory>
+                <accessory>503</accessory>
+                <accessory>504</accessory>
+                <accessory>505</accessory>
+                <accessory>506</accessory>
+                <accessory>507</accessory>
+            </accessories>
+        </Product>
+        <Product id="16">
+            <name>Logitech Multimedia Speakers Z150 </name>
+            <price>23</price>
+            <image>images/products/Speakers/sp6.jpg</image>
+            <category>speakers</category>
+            <brand>Logitech</brand>
+            <deals>normal</deals>
+            <discount>10 </discount>
+            <quantity>50</quantity>
+            <prodOnSale>Yes</prodOnSale>
+            <manuRebate>No</manuRebate>
+            <accessories>
+                <accessory>501</accessory>
+                <accessory>502</accessory>
+                <accessory>503</accessory>
+                <accessory>504</accessory>
+                <accessory>505</accessory>
+                <accessory>506</accessory>
+                <accessory>507</accessory>
+            </accessories>
+        </Product>
+        <Product id="17">
+            <name>Philips ORD7100C/37 Charging Speaker </name>
+            <price>130</price>
+            <image>images/products/Speakers/sp7.jpg</image>
+            <category>speakers</category>
+            <brand>Philips</brand>
+            <deals>normal</deals>
+            <discount>10 </discount>
+            <quantity>50</quantity>
+            <prodOnSale>Yes</prodOnSale>
+            <manuRebate>No</manuRebate>
+            <accessories>
+                <accessory>501</accessory>
+                <accessory>502</accessory>
+                <accessory>503</accessory>
+                <accessory>504</accessory>
+                <accessory>505</accessory>
+                <accessory>506</accessory>
+                <accessory>507</accessory>
+            </accessories>
+        </Product>
+        <Product id="18">
+            <name>Philips BTM2180/37 Micro Music System</name>
+            <price>118</price>
+            <image>images/products/Speakers/sp8.jpg</image>
+            <category>speakers</category>
+            <brand>Philips</brand>
+            <deals>normal</deals>
+            <discount>10 </discount>
+            <quantity>50</quantity>
+            <prodOnSale>Yes</prodOnSale>
+            <manuRebate>No</manuRebate>
+            <accessories>
+                <accessory>501</accessory>
+                <accessory>502</accessory>
+                <accessory>503</accessory>
+                <accessory>504</accessory>
+                <accessory>505</accessory>
+                <accessory>506</accessory>
+                <accessory>507</accessory>
+            </accessories>
+        </Product>
+        <Product id="19">
+            <name>Philips DS1155 Charging Speaker </name>
+            <price>100</price>
+            <image>images/products/Speakers/sp9.jpg</image>
+            <category>speakers</category>
+            <brand>Philips</brand>
+            <deals>normal</deals>
+            <discount>10 </discount>
+            <quantity>50</quantity>
+            <prodOnSale>Yes</prodOnSale>
+            <manuRebate>No</manuRebate>
+            <accessories>
+               <accessory>501</accessory>
+                <accessory>502</accessory>
+                <accessory>503</accessory>
+                <accessory>504</accessory>
+                <accessory>505</accessory>
+                <accessory>506</accessory>
+                <accessory>507</accessory>
+            </accessories>
+        </Product>
+        <Product id="20">
+            <name>Philips SW750M/37 Spotify Multiroom Speaker</name>
+            <price>169</price>
+            <image>images/products/Speakers/sp10.jpg</image>
+            <category>speakers</category>
+            <brand>Philips</brand>
+            <deals>normal</deals>
+            <discount>10 </discount>
+            <quantity>50</quantity>
+            <prodOnSale>Yes</prodOnSale>
+            <manuRebate>No</manuRebate>
+            <accessories>
+                <accessory>501</accessory>
+                <accessory>502</accessory>
+                <accessory>503</accessory>
+                <accessory>504</accessory>
+                <accessory>505</accessory>
+                <accessory>506</accessory>
+                <accessory>507</accessory>
+            </accessories>
+        </Product>
+
+        <!-- Headphones -->
+        <Product id="21">
+            <name>Skullcandy Skullcrushers Headphones</name>
+            <price>299</price>
+            <image>images/products/Headphones/h01.jpg</image>
+            <category>headphones</category>
+            <brand>Skullcandy</brand>
+            <deals>normal</deals>
+            <discount>10 </discount>
+            <quantity>50</quantity>
+            <prodOnSale>No</prodOnSale>
+            <manuRebate>No</manuRebate>
+            <accessories>
+               <accessory>501</accessory>
+                <accessory>502</accessory>
+                <accessory>503</accessory>
+                <accessory>504</accessory>
+                <accessory>505</accessory>
+                <accessory>506</accessory>
+                <accessory>507</accessory>
+            </accessories>
+        </Product>
+        <Product id="22">
+            <name>Skullcandy Hesh Headphones </name>
+            <price>295</price>
+            <image>images/products/Headphones/h02.jpg</image>
+            <category>headphones</category>
+            <brand>Skullcandy</brand>
+            <deals>normal</deals>
+            <discount>10 </discount>
+            <quantity>50</quantity>
+            <prodOnSale>Yes</prodOnSale>
+            <manuRebate>No</manuRebate>
+            <accessories>
+                <accessory>501</accessory>
+                <accessory>502</accessory>
+                <accessory>503</accessory>
+                <accessory>504</accessory>
+                <accessory>505</accessory>
+                <accessory>506</accessory>
+                <accessory>507</accessory>
+            </accessories>
+        </Product>
+        <Product id="23">
+            <name>Skullcandy Sparkle Motion </name>
+            <price>249</price>
+            <image>images/products/Headphones/h03.jpg</image>
+            <category>headphones</category>
+            <brand>Skullcandy</brand>
+            <deals>normal</deals>
+            <discount>10 </discount>
+            <quantity>50</quantity>
+            <prodOnSale>Yes</prodOnSale>
+            <manuRebate>No</manuRebate>
+            <accessories>
+                <accessory>501</accessory>
+                <accessory>502</accessory>
+                <accessory>503</accessory>
+                <accessory>504</accessory>
+                <accessory>505</accessory>
+                <accessory>506</accessory>
+                <accessory>507</accessory>
+            </accessories>
+        </Product>
+        <Product id="24">
+            <name>Headphones SONY MDR-1RNC </name>
+            <price>679</price>
+            <image>images/products/Headphones/h04.jpg</image>
+            <category>headphones</category>
+            <brand>Sony</brand>
+            <deals>normal</deals>
+            <discount>10 </discount>
+            <quantity>50</quantity>
+            <prodOnSale>Yes</prodOnSale>
+            <manuRebate>No</manuRebate>
+            <accessories>
+                <accessory>501</accessory>
+                <accessory>502</accessory>
+                <accessory>503</accessory>
+                <accessory>504</accessory>
+                <accessory>505</accessory>
+                <accessory>506</accessory>
+                <accessory>507</accessory>
+            </accessories>
+        </Product>
+        <Product id="25">
+            <name>SONY MDR-Z7 High-Resolution Stereo</name>
+            <price>499</price>
+            <image>images/products/Headphones/h05.jpg</image>
+            <category>headphones</category>
+            <brand>Sony</brand>
+            <deals>normal</deals>
+            <discount>10 </discount>
+            <quantity>70</quantity>
+            <prodOnSale>No</prodOnSale>
+            <manuRebate>No</manuRebate>
+            <accessories>
+                <accessory>501</accessory>
+                <accessory>502</accessory>
+                <accessory>503</accessory>
+                <accessory>504</accessory>
+                <accessory>505</accessory>
+                <accessory>506</accessory>
+                <accessory>507</accessory>
+            </accessories>
+        </Product>
+        <Product id="26">
+            <name>SONY Stereo Headphones Black MDR-XB920/B </name>
+            <price>98</price>
+            <image>images/products/Headphones/h06.jpg</image>
+            <category>headphones</category>
+            <brand>Sony</brand>
+            <deals>normal</deals>
+            <discount>10 </discount>
+            <quantity>60</quantity>
+            <prodOnSale>Yes</prodOnSale>
+            <manuRebate>No</manuRebate>
+            <accessories>
+                <accessory>501</accessory>
+                <accessory>502</accessory>
+                <accessory>503</accessory>
+                <accessory>504</accessory>
+                <accessory>505</accessory>
+                <accessory>506</accessory>
+                <accessory>507</accessory>
+            </accessories>
+        </Product>
+        <Product id="27">
+            <name>Beats By Dre Mixr On-Ear Headphone </name>
+            <price>299</price>
+            <image>images/products/Headphones/h07.jpg</image>
+            <category>headphones</category>
+            <brand>Apple</brand>
+            <deals>normal</deals>
+            <discount>10 </discount>
+            <quantity>40</quantity>
+            <prodOnSale>Yes</prodOnSale>
+            <manuRebate>Yes</manuRebate>
+            <accessories>
+                <accessory>501</accessory>
+                <accessory>502</accessory>
+                <accessory>503</accessory>
+                <accessory>504</accessory>
+                <accessory>505</accessory>
+                <accessory>506</accessory>
+                <accessory>507</accessory>
+            </accessories>
+        </Product>
+        <Product id="28">
+            <name>Apple Beats Pro White Wired </name>
+            <price>285</price>
+            <image>images/products/Headphones/h08.jpg</image>
+            <category>headphones</category>
+            <brand>Apple</brand>
+            <deals>normal</deals>
+            <discount>10 </discount>
+            <quantity>60</quantity>
+            <prodOnSale>Yes</prodOnSale>
+            <manuRebate>No</manuRebate>
+            <accessories>
+               <accessory>501</accessory>
+                <accessory>502</accessory>
+                <accessory>503</accessory>
+                <accessory>504</accessory>
+                <accessory>505</accessory>
+                <accessory>506</accessory>
+                <accessory>507</accessory>
+            </accessories>
+        </Product>
+        <Product id="29">
+            <name>Beats by Dr. Dre Solo2 On-Ear Headphones </name>
+            <price>280</price>
+            <image>images/products/Headphones/h09.jpg</image>
+            <category>headphones</category>
+            <brand>Apple</brand>
+            <deals>normal</deals>
+            <discount>10 </discount>
+            <quantity>50</quantity>
+            <prodOnSale>Yes</prodOnSale>
+            <manuRebate>Yes</manuRebate>
+            <accessories>
+                <accessory>501</accessory>
+                <accessory>502</accessory>
+                <accessory>503</accessory>
+                <accessory>504</accessory>
+                <accessory>505</accessory>
+                <accessory>506</accessory>
+                <accessory>507</accessory>
+            </accessories>
+        </Product>
+        <Product id="30">
+            <name>Sony PFRV1 Personal Field Speaker Headphones </name>
+            <price>497</price>
+            <image>images/products/Headphones/h10.jpg</image>
+            <category>headphones</category>
+            <brand>Sony</brand>
+            <deals>normal</deals>
+            <discount>10 </discount>
+            <quantity>50</quantity>
+            <prodOnSale>No</prodOnSale>
+            <manuRebate>Yes</manuRebate>
+            <accessories>
+                <accessory>501</accessory>
+                <accessory>502</accessory>
+                <accessory>503</accessory>
+                <accessory>504</accessory>
+                <accessory>505</accessory>
+                <accessory>506</accessory>
+                <accessory>507</accessory>
+            </accessories>
+        </Product>
+
+        <!-- Phones -->
+        <Product id="31">
+            <name>iPhone 5 </name>
+            <price>150</price>
+            <image>images/products/Phones/p1.jpg</image>
+            <category>phones</category>
+            <brand>ABC</brand>
+            <deals>normal</deals>
+            <discount>10 </discount>
+            <quantity>50</quantity>
+            <prodOnSale>No</prodOnSale>
+            <manuRebate>No</manuRebate>
+            <accessories>
+                <accessory>501</accessory>
+                <accessory>502</accessory>
+                <accessory>503</accessory>
+                <accessory>504</accessory>
+                <accessory>505</accessory>
+                <accessory>506</accessory>
+                <accessory>507</accessory>
+            </accessories>
+        </Product>
+        <Product id="32">
+            <name>iPhone 6s Plus</name>
+            <price>750</price>
+            <image>images/products/Phones/p2.jpg</image>
+            <category>phones</category>
+            <brand>ABC</brand>
+            <deals>normal</deals>
+            <discount>10 </discount>
+            <quantity>50</quantity>
+            <prodOnSale>Yes</prodOnSale>
+            <manuRebate>Yes</manuRebate>
+            <accessories>
+                <accessory>501</accessory>
+                <accessory>502</accessory>
+                <accessory>503</accessory>
+                <accessory>504</accessory>
+                <accessory>505</accessory>
+                <accessory>506</accessory>
+                <accessory>507</accessory>
+            </accessories>
+        </Product>
+        <Product id="33">
+            <name>iPhone 5s</name>
+            <price>750</price>
+            <image>images/products/Phones/p3.jpg</image>
+            <category>phones</category>
+            <brand>ABC</brand>
+            <deals>normal</deals>
+            <discount>10 </discount>
+            <quantity>50</quantity>
+            <prodOnSale>Yes</prodOnSale>
+            <manuRebate>Yes</manuRebate>
+            <accessories>
+                <accessory>501</accessory>
+                <accessory>502</accessory>
+                <accessory>503</accessory>
+                <accessory>504</accessory>
+                <accessory>505</accessory>
+                <accessory>506</accessory>
+                <accessory>507</accessory>
+            </accessories>
+        </Product>
+        <!-- Laptops -->
+        <Product id="34">
+            <name>Samsung Notebook 9</name>
+            <price>150</price>
+            <image>images/products/Laptops/l1.jpg</image>
+            <category>laptops</category>
+            <brand>Dell</brand>
+            <deals>normal</deals>
+            <discount>10 </discount>
+            <quantity>50</quantity>
+            <prodOnSale>Yes</prodOnSale>
+            <manuRebate>Yes</manuRebate>
+            <accessories>
+                <accessory>501</accessory>
+                <accessory>502</accessory>
+                <accessory>503</accessory>
+                <accessory>504</accessory>
+                <accessory>505</accessory>
+                <accessory>506</accessory>
+                <accessory>507</accessory>
+            </accessories>
+        </Product>
+        <Product id="35">
+            <name>Hp</name>
+            <price>750</price>
+            <image>images/products/Laptops/l2.jpg</image>
+            <category>laptops</category>
+            <brand>HP</brand>
+            <deals>normal</deals>
+            <discount>10 </discount>
+            <quantity>50</quantity>
+            <prodOnSale>No</prodOnSale>
+            <manuRebate>Yes</manuRebate>
+            <accessories>
+                <accessory>501</accessory>
+                <accessory>502</accessory>
+                <accessory>503</accessory>
+                <accessory>504</accessory>
+                <accessory>505</accessory>
+                <accessory>506</accessory>
+                <accessory>507</accessory>
+            </accessories>
+        </Product>
+        <Product id="36">
+            <name>Dell Inspiron 15.6"</name>
+            <price>750</price>
+            <image>images/products/Laptops/l3.jpg</image>
+            <category>laptops</category>
+            <brand>Dell</brand>
+            <deals>normal</deals>
+            <discount>10 </discount>
+            <quantity>40</quantity>
+            <prodOnSale>Yes</prodOnSale>
+            <manuRebate>Yes</manuRebate>
+            <accessories>
+                <accessory>501</accessory>
+                <accessory>502</accessory>
+                <accessory>503</accessory>
+                <accessory>504</accessory>
+                <accessory>505</accessory>
+                <accessory>506</accessory>
+                <accessory>507</accessory>
+            </accessories>
+        </Product>
+		<Product id="51">
+            <name>Apple MacBook Pro</name>
+            <price>750</price>
+            <image>images/products/Laptops/l2.jpg</image>
+            <category>laptops</category>
+            <brand>Dell</brand>
+            <deals>normal</deals>
+            <discount>10 </discount>
+            <quantity>40</quantity>
+            <prodOnSale>Yes</prodOnSale>
+            <manuRebate>Yes</manuRebate>
+            <accessories>
+                <accessory>501</accessory>
+                <accessory>502</accessory>
+                <accessory>503</accessory>
+                <accessory>504</accessory>
+                <accessory>505</accessory>
+                <accessory>506</accessory>
+                <accessory>507</accessory>
+            </accessories>
+        </Product>
+        <!-- External Storage -->
+        <Product id="37">
+            <name>Seagate HD1</name>
+            <price>150</price>
+            <image>images/products/ExternalStorage/es1.jpg</image>
+            <category>externalStorage</category>
+            <brand>ABC</brand>
+            <deals>normal</deals>
+            <discount>10 </discount>
+            <quantity>60</quantity>
+            <prodOnSale>No</prodOnSale>
+            <manuRebate>No</manuRebate>
+            <accessories>
+                <accessory>501</accessory>
+                <accessory>502</accessory>
+                <accessory>503</accessory>
+                <accessory>504</accessory>
+                <accessory>505</accessory>
+                <accessory>506</accessory>
+                <accessory>507</accessory>
+            </accessories>
+        </Product>
+        <Product id="38">
+            <name>Seagate HD21</name>
+            <price>750</price>
+            <image>images/products/ExternalStorage/es2.jpg</image>
+            <category>externalStorage</category>
+            <brand>ABC</brand>
+            <deals>normal</deals>
+            <discount>10 </discount>
+            <quantity>50</quantity>
+            <prodOnSale>Yes</prodOnSale>
+            <manuRebate>Yes</manuRebate>
+            <accessories>
+               <accessory>501</accessory>
+                <accessory>502</accessory>
+                <accessory>503</accessory>
+                <accessory>504</accessory>
+                <accessory>505</accessory>
+                <accessory>506</accessory>
+                <accessory>507</accessory>
+            </accessories>
+        </Product>
+        <Product id="39">
+            <name>Seagate HD3</name>
+            <price>750</price>
+            <image>images/products/ExternalStorage/es3.jpg</image>
+            <category>externalStorage</category>
+            <brand>ABC</brand>
+            <deals>normal</deals>
+            <discount>10 </discount>
+            <quantity>40</quantity>
+            <prodOnSale>Yes</prodOnSale>
+            <manuRebate>Yes</manuRebate>
+            <accessories>
+                <accessory>501</accessory>
+                <accessory>502</accessory>
+                <accessory>503</accessory>
+                <accessory>504</accessory>
+                <accessory>505</accessory>
+                <accessory>506</accessory>
+                <accessory>507</accessory>
+            </accessories>
+        </Product>
+    </Products>
+    <AssessoryCatalog>
+        <acc id="501">
+            <aname> Accessory 1</aname>
+            <aprice>750</aprice>
+            <aimage>images/home/img1.jpg</aimage>
+            <abrand>ABC</abrand>
+            <adeals>normal</adeals>
+            <adiscount>10 </adiscount>
+            <acategory>smartWatches</acategory>
+            <aquantity>30</aquantity>
+            <aprodOnSale>Yes</aprodOnSale>
+            <amanuRebate>No</amanuRebate>
+        </acc>
+        <acc id="502">
+            <aname>Accessory 2</aname>
+            <aprice>750</aprice>
+            <aimage>images/products/ExternalStorage/es3.jpg</aimage>
+            <abrand>ABC</abrand>
+            <adeals>normal</adeals>
+            <adiscount>10 </adiscount>
+            <acategory>smartWatches</acategory>
+            <aquantity>30</aquantity>
+            <aprodOnSale>Yes</aprodOnSale>
+            <amanuRebate>Yes</amanuRebate>
+        </acc>
+        <acc id="503">
+            <aname>Accessory 3</aname>
+            <aprice>750</aprice>
+            <aimage>images/home/img1.jpg</aimage>
+            <abrand>ABC</abrand>
+            <adeals>normal</adeals>
+            <adiscount>10 </adiscount>
+            <acategory>smartWatches</acategory>
+            <aquantity>30</aquantity>
+            <aprodOnSale>Yes</aprodOnSale>
+            <amanuRebate>Yes</amanuRebate>
+        </acc>
+        <acc id="504">
+            <aname>Accessory 4</aname>
+            <aprice>750</aprice>
+            <aimage>images/products/Headphones/h08.jpg</aimage>
+            <abrand>ABC</abrand>
+            <adeals>normal</adeals>
+            <adiscount>10 </adiscount>
+            <acategory>smartWatches</acategory>
+            <aquantity>30</aquantity>
+            <aprodOnSale>No</aprodOnSale>
+            <amanuRebate>Yes</amanuRebate>
+        </acc>
+        <acc id="505">
+            <aname>Accessory 5</aname>
+            <aprice>750</aprice>
+            <aimage>images/home/img1.jpg</aimage>
+            <abrand>ABC</abrand>
+            <adeals>normal</adeals>
+            <adiscount>10 </adiscount>
+            <acategory>smartWatches</acategory>
+            <aquantity>30</aquantity>
+            <aprodOnSale>Yes</aprodOnSale>
+            <amanuRebate>Yes</amanuRebate>
+        </acc>
+        <acc id="506">
+            <aname>Accessory 6</aname>
+            <aprice>750</aprice>
+            <aimage>images/products/Laptops/l1.jpg</aimage>
+            <abrand>ABC</abrand>
+            <adeals>normal</adeals>
+            <adiscount>10 </adiscount>
+            <acategory>smartWatches</acategory>
+            <aquantity>30</aquantity>
+            <aprodOnSale>No</aprodOnSale>
+            <amanuRebate>No</amanuRebate>
+        </acc>
+        <acc id="507">
+            <aname>Accessory 7</aname>
+            <aprice>750</aprice>
+            <aimage>images/products/Laptops/l2.jpg</aimage>
+            <abrand>ABC</abrand>
+            <adeals>normal</adeals>
+            <adiscount>10 </adiscount>
+            <acategory>smartWatches</acategory>
+            <aquantity>30</aquantity>
+            <aprodOnSale>Yes</aprodOnSale>
+            <amanuRebate>No</amanuRebate>
+        </acc>
+    </AssessoryCatalog>
+</ProductCatalog>

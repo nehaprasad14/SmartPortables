@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <title>Smart Portables</title>
+
+    <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css' >
+    <link rel='stylesheet prefetch' href='http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css'>
+
+    <link href="style.css" rel="stylesheet" type="text/css" />
+    <link rel='stylesheet' href='carousalstyle.css'>
+
+</head>
+
+<body onload="init()">
+    <div id="container">
+        <header>
+            <h1><a href="Home">Smart <span>Portables</span></a></h1>
+            <h2>Stay Smart ... Stay Connected </h2>
+        </header>
+        <script type="text/javascript" src="auto-complete-js.js"></script>
+          	<div name="autofillform" style=" margin: auto; position: relative; left: 30%; bottom: 30px;">
+              <b style="font-size: 27px;color:black">Search Product: </b>
+                	<input type="text" name="searchId" value="" id="searchId" onkeyup="doCompletion()"
+                	 placeholder="Search here.." style="padding: 5px; font-size: 16px; width:325px;" />
+                  		<div id="auto-row">
+                  		    <table id="complete-table" class="gridtable" style="position: absolute; width:325px;"></table>
+                  		</div>
+          	</div>
+
+
+        <nav>
+            <ul>
+                <li><a href="Home">Home</a></li>
+                <li><a href="ProductCatalog?category=smartWatches&cat=true&acc=false">Smart Watches</a></li>
+                <li><a href="ProductCatalog?category=speakers&cat=true&acc=false">Speakers</a></li>
+                <li><a href="ProductCatalog?category=headphones&cat=true&acc=false">Headphones</a></li>
+                <li><a href="ProductCatalog?category=phones&cat=true&acc=false">Phones</a></li>
+                <li><a href="ProductCatalog?category=laptops&cat=true&acc=false">Laptops</a></li>
+                <li><a href="ProductCatalog?category=externalStorage&cat=true&acc=false">External Storage</a></li>
