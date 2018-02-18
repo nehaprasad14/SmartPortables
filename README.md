@@ -1,7 +1,7 @@
 # SmartPortables - Online Store for smart portables
 ## Overview:
 The online retailer SmartPortables is an object-oriented servlet-based web application that will allow
-customers to place orders online from SmartPortables website:
+customers to place orders online from SmartPortables website.
 - The retailer has the products categories:
   1. Smart Watches
   2. Speakers
