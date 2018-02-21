@@ -21,10 +21,10 @@ customers to place orders online from SmartPortables website.
   
 ## Technologies used:
 - Java Servlets
-- JSP
 - HTML
 - CSS
 - AJAX
 - MongoDB
 - MySQL
 - Python
+- Twitter API
